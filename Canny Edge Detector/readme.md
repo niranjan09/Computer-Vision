@@ -1,6 +1,6 @@
 How to run using source file:
 1. Make sure all dependencies are installed(python, matplotlib and numpy)
-2. Use command: python NVK241_Project1_CED.py <image_file_name>
+2. Use command: python CED.py <image_file_name>
 A) make sure image is grayscale image with only 1 channel; otherwise program will throw
 error.
 B) This is given on matplotlib site: “Matplotlib can only read PNGs natively. Further image
